@@ -1,4 +1,4 @@
-package my.lrn.squirrel;
+package my.lrn.squirrel.telepante;
 
 import org.squirrelframework.foundation.fsm.impl.AbstractStateMachine;
 
